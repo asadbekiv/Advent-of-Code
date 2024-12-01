@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "Problem solving chellenge Advent of Code in 2024",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Asadbek Ibodullaev",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
